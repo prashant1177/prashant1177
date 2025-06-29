@@ -69,7 +69,9 @@ Booking platform with secure login and room management
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashant1177&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant1177&theme=radical" width="49%" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nwaliaez&theme=dark&hide_border=false)
+
 </p>
 
 ---
