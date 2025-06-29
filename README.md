@@ -8,24 +8,11 @@
   <a href="https://leetcode.com/prashantjpatil49/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
----
-
-## 📄 Resume Snapshot
-
-- 📞 Phone: +91 9021740501  
-- 📧 Email: [prashantjpatil49@gmail.com](mailto:prashantjpatil49@gmail.com)
-
----
-
 ## 🎓 Education
 
 **Bachelor of Engineering in Computer Science**  
 _SSBTC COET, Jalgaon | 2021 - 2025_  
 CGPA: **7.90 / 10**
-
-**Higher Secondary School (HSC)**  
-_J.E. School & Jr. College, Muktainagar | 2020 - 2021_  
-Percentage: **71.67%**
 
 ---
 
