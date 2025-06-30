@@ -28,7 +28,7 @@ I'm a passionate **Full Stack Developer** and Computer Science undergraduate who
 #### 📘 [NotesBot.ai](https://github.com/prashant1177/NotesBot)  
 Smart note-generation app using PDF/Youtube input  
 **Tech:** Flask, ReactJS, Gemini API, TailwindCSS, MongoDB  
-Live Demo: _coming soon_
+[Live Demo Link](https://notes-bot-nine.vercel.app/)
 
 #### 🏨 [Hotel Booking Site](https://github.com/prashant1177/hotel-booking-site)  
 Booking platform with secure login and room management  
