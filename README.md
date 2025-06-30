@@ -5,11 +5,13 @@
   🎓 B.E. in Computer Science (2021-2025)
 </p>
 
+
 ---
 
 ### 🚀 About Me
 
 I'm a passionate **Full Stack Developer** and Computer Science undergraduate who loves building intelligent, user-focused web applications. With hands-on experience in **MERN stack**, cloud tools, and AI integration (like Gemini API), I'm always excited to learn, build, and solve real-world problems.
+
 
 ---
 
@@ -18,7 +20,9 @@ I'm a passionate **Full Stack Developer** and Computer Science undergraduate who
 🔧 I'm currently building **[NotesBot.ai](https://github.com/prashant1177/NotesBot)** — a personal AI-powered note assistant that helps generate better summaries from both PDF notes and YouTube videos.  
 🧠 My goal is to create a **smart, clean, and distraction-free learning companion** that can convert raw content into structured, easy-to-revise study material using **Gemini AI**, **Flask**, and **React**.
 
+
 ---
+
 ### 🌟 Featured Projects
 
 #### 📘 [NotesBot.ai](https://github.com/prashant1177/NotesBot)  
@@ -29,6 +33,7 @@ Live Demo: _coming soon_
 #### 🏨 [Hotel Booking Site](https://github.com/prashant1177/hotel-booking-site)  
 Booking platform with secure login and room management  
 **Tech:** Node.js, Express.js, EJS, MongoDB, Passport.js  
+
 
 ---
 
@@ -70,6 +75,7 @@ Booking platform with secure login and room management
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -84,6 +90,7 @@ Booking platform with secure login and room management
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prashant1177&theme=radical&hide_border=false" />
 </p>
+
 
 ---
 
