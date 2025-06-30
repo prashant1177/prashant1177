@@ -13,6 +13,12 @@ I'm a passionate **Full Stack Developer** and Computer Science undergraduate who
 
 ---
 
+### 🚧 What I'm Working On
+
+🔧 I'm currently building **[NotesBot.ai](https://github.com/prashant1177/NotesBot)** — a personal AI-powered note assistant that helps generate better summaries from both PDF notes and YouTube videos.  
+🧠 My goal is to create a **smart, clean, and distraction-free learning companion** that can convert raw content into structured, easy-to-revise study material using **Gemini AI**, **Flask**, and **React**.
+
+---
 ### 🌟 Featured Projects
 
 #### 📘 [NotesBot.ai](https://github.com/prashant1177/NotesBot)  
