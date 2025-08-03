@@ -80,12 +80,14 @@ Booking platform with secure login and room management
 
 ## 📊 GitHub Stats
 
+<p align="center">
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=prashant1177&show_icons=true&theme=radical" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=prashant1177&show_icons=true&theme=radical" width="50%" />
+</p>
+<p align="center">
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant1177&layout=compact&theme=radical" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant1177&layout=compact&theme=radical" width="50%" />
+</p>
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prashant1177&theme=radical&hide_border=false" />
