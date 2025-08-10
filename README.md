@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Developer** and Computer Science undergraduate who
 
 ### 🚧 What I'm Working On
 
-🔧 I'm currently building **Chess game** — a free Chess platform for everyone. Where a user can solve as many puzzles as he want to.
+🔧 I'm Currently improving my old project which is a job portal by adding automated shortlisting and new functionalities for student and colleges. 
 
 
 ---
