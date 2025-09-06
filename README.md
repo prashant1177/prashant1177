@@ -17,17 +17,17 @@ I'm a passionate **Full Stack Developer** and Computer Science undergraduate who
 
 ### 🚧 What I'm Working On
 
-🔧 I'm Currently improving my old project which is a job portal by adding automated shortlisting and new functionalities for student and colleges. 
-
+🔧 I'm Currently working on an online LaTeX compiler, that allow user to write, edit, and compile Latex to pdf. The goal is to make it one of the best LaTeX editor out there in market and make LaTeX accesible for everyone with installing anything on the computer. 
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 📘 [NotesBot.ai](https://github.com/prashant1177/NotesBot)  
-Smart note-generation app using PDF/Youtube input  
-**Tech:** Flask, ReactJS, Gemini API, TailwindCSS, MongoDB  
-[Live Demo Link](https://notes-bot-nine.vercel.app/)
+#### 📘 [LaTeXWriter](https://github.com/prashant1177/NotesBot)  
+LaTeX compiler with version control, in-built math keyboard, Gemini ai assitant and more.
+**Tech:** ReactJS, Express, Node.js Gemini API, TailwindCSS, MongoDB, AWS, Cloud hosting.
+
+Live Demo Link - https://latexwriter.com/
 
 #### 🏨 [Hotel Booking Site](https://github.com/prashant1177/hotel-booking-site)  
 Booking platform with secure login and room management  
