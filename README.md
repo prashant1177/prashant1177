@@ -32,7 +32,7 @@ Live Demo Link - https://latexwriter.com/
 #### 🏨 [Hotel Booking Site](https://github.com/prashant1177/hotel-booking-site)  
 Booking platform with secure login and room management  
 **Tech:** Node.js, Express.js, EJS, MongoDB, Passport.js  
-[Live Demo Link]([https://notes-bot-nine.vercel.app/](https://hotelbooking-phi.vercel.app/))
+Live Demo Link - https://hotelbooking-phi.vercel.app/
 
 
 ---
