@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Developer** and Computer Science undergraduate who
 
 ### 🚧 What I'm Working On
 
-🔧 I'm Currently working on an online LaTeX compiler, that allow user to write, edit, and compile Latex to pdf. The goal is to make it one of the best LaTeX editor out there in market and make LaTeX accesible for everyone with installing anything on the computer. 
+🔧 I'm Currently working on a LaTeX compiler, that allow user to write, edit, and compile Latex to pdf. The goal is to make it one of the best LaTeX editor out there in market and make LaTeX accesible for everyone. 
 
 ---
 
