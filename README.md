@@ -88,11 +88,6 @@ Live Demo Link - https://hotelbooking-phi.vercel.app/
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant1177&layout=compact&theme=radical" width="50%" />
 </p>
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prashant1177&theme=radical&hide_border=false" />
-</p>
-
 
 ---
 
