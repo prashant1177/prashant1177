@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Developer** and Computer Science undergraduate who
 
 ### 🚧 What I'm Working On
 
-🔧 I'm Currently Learning React-Native and TypeScript advance. 
+🔧 I'm Currently Learning React-Native and TypeScript advance. And Working on AI-PDF Reviewer, which will replace the wait for peer review for student and reasearcher.
 
 ---
 
