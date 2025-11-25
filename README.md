@@ -12,29 +12,6 @@
 
 I'm a passionate **Full Stack Developer** and Computer Science undergraduate who loves building intelligent, user-focused web applications. With hands-on experience in **MERN stack**, cloud tools, and AI integration (like Gemini API), I'm always excited to learn, build, and solve real-world problems.
 
-
----
-
-### 🚧 What I'm Working On
-
-🔧 I'm Currently Learning React-Native and TypeScript advance. And Working on AI-PDF Reviewer, which will replace the wait for peer review for student and reasearcher.
-
----
-
-### 🌟 Featured Projects
-
-#### 📘 [LaTeXWriter](https://github.com/prashant1177/NotesBot)  
-LaTeX compiler with version control, in-built math keyboard, Gemini ai assitant and more.
-**Tech:** ReactJS, Express, Node.js Gemini API, TailwindCSS, MongoDB, AWS, Cloud hosting.
-
-Live Demo Link - https://latexwriter.com/
-
-#### 🏨 [Hotel Booking Site](https://github.com/prashant1177/hotel-booking-site)  
-Booking platform with secure login and room management  
-**Tech:** Node.js, Express.js, EJS, MongoDB, Passport.js  
-Live Demo Link - https://hotelbooking-phi.vercel.app/
-
-
 ---
 
 ### 💻 Tech Stack
@@ -74,20 +51,6 @@ Live Demo Link - https://hotelbooking-phi.vercel.app/
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=prashant1177&show_icons=true&theme=radical" width="50%" />
-</p>
-<p align="center">
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant1177&layout=compact&theme=radical" width="50%" />
-</p>
 
 ---
 
