@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
 <p align="center">
   📍 Pune, India &nbsp;|&nbsp;
-  💻 Full Stack Developer &nbsp;|&nbsp;
+  💻 Aspiring Software Developer &nbsp;|&nbsp;
   🎓 B.E. in Computer Science (2021-2025)
 </p>
 
@@ -52,14 +52,4 @@ I'm a passionate **Full Stack Developer** and Computer Science undergraduate who
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
----
-
-### 🔗 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prashant1177)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prashant1177)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant1177)
-[![Email](https://img.shields.io/badge/Email-prashantjpatil49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantjpatil49@gmail.com)
-
----
 
