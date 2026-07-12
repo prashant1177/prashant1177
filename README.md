@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
 <p align="center">
   📍 Pune, India &nbsp;|&nbsp;
-  💻 Aspiring Software Developer &nbsp;|&nbsp;
+  💻 Assistant System Engineer @TCS &nbsp;|&nbsp;
   🎓 B.E. in Computer Science (2021-2025)
 </p>
 
